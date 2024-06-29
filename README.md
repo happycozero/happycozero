@@ -8,8 +8,8 @@
   </a>
 </div>
 
-<div id="profile-views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=happycozero&style=flat-square&color=orange&label=Просмотры&base=162" alt="просмотры профиля"/>
+<div id="profile-views" align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=your-github-happycozero&style=flat-square&color=orange" alt=""/>
 </div>
 
 ### 🍌: Обо мне :
@@ -18,6 +18,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: В настоящее время я работаю веб-дизайнером, а также фронтенд и бэкенд разработчиком веб-приложений.
 
-- :seedling: Постоянно реализуюсь в своем направлении
+- :seedling: Постоянно реализуюсь в своем направлении.
 
 - :zap: Постоянно размышляю о том, как внести в этот мир частичку улучшений, делая его лучше для всех вокруг.
