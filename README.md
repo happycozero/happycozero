@@ -9,7 +9,7 @@
 </div>
 
 <div id="profile-views" align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=your-github-happycozero&style=flat-square&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=your-github-happycozero&style=flat-square&color=orange&label=просмотры+профиля&base=174)" alt=""/>
 </div>
 
 ### 🍌: Обо мне :
