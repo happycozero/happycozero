@@ -9,7 +9,7 @@
 </div>
 
 <div id="profile-views" align="center">
-<img src="https://komarev.com/ghpvc/?username=happycozero&style=flat-square&color=orange&label=Просмотры+профиля&base=162" alt="" width="500"/>
+<img src="https://komarev.com/ghpvc/?username=happycozero&style=flat-square&color=orange&label=Просмотры+профиля&base=162" alt="просмотры профиля" height="150" width="150"/>
 
 </div>
 
