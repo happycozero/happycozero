@@ -1,6 +1,9 @@
 <div id="header" align="center">
-  <img src="https://s1.radikal.cloud/2024/06/30/logo-footer.png" width="100"/>
+  <a href="https://t.me/happycozero" target="_blank">
+    <img src="https://s1.radikal.cloud/2024/06/30/logo-footer.png" width="100" alt="Telegram чат happycozero"/>
+  </a>
 </div>
+
 
 <div id="badges" align="center">
   <a href="https://t.me/happycozero">
