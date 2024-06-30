@@ -17,7 +17,7 @@
 
 ### 🍌: Обо мне :
         
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+Я веб-дизайнер, разработчик сайтов и приложений<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
 
 - :telescope: В настоящее время я работаю веб-дизайнером, а также фронтенд и бэкенд разработчиком веб-приложений.
 
