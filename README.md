@@ -40,3 +40,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
 </div>
+
+---
+
+### :fire: Моя статистика:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=happycozero&locale=ru)](https://git.io/streak-stats)
