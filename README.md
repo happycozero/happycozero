@@ -45,3 +45,5 @@
 
 ### :fire: Моя статистика:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=happycozero&locale=ru)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=happycozero&theme=orange&show_icons=true)
