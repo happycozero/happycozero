@@ -11,13 +11,9 @@
   </a>
 </div>
 
-<div id="profile-views" align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=your-github-happycozero&base=164&style=flat-square&color=orange)" alt=""/>
-</div>
-
 ### 🍌: Обо мне :
         
-Я веб-разработчик сайтов и приложений<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
+Я веб-разработчик сайтов и приложений из России.
 
 ### :hammer_and_wrench: Языки и инструменты :
 
